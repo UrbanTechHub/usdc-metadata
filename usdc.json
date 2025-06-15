@@ -2,5 +2,5 @@
   "name": "USDC",
   "symbol": "USDC",
   "description": "A USD Coin stablecoin on Solana",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43MuDqq54iD1ZCRL_uthAPkfwSSL-J5qI_Q&s"
+  "image": "https://raw.githubusercontent.com/UrbanTechHub/usdc-metadata/main/usdc-logo.png"
 }
